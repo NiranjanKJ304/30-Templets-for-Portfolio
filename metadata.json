@@ -1,0 +1,6 @@
+{
+  "name": "Portfolio Template Lab",
+  "description": "Universal Portfolio Template Development System and preview environment for data-driven, domain-independent templates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
